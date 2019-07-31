@@ -4,7 +4,7 @@
 
 
 ## 说明
-此郑码方案需要 [openvanilla](https://openvanilla.org/)    (https://openvanilla.org/)  
+此郑码方案需要 [openvanilla](https://openvanilla.org/)    (https://openvanilla.org/)  适用于MacOSX.
 
 
 
