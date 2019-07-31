@@ -1,6 +1,6 @@
 # openvanilla-zhengma
 
-# openvanilla郑码（openvanilla-zhengma） -- Zhengma input method openvanilla
+ openvanilla郑码（openvanilla-zhengma） -- Zhengma input method on Openvanilla
 
 
 ## 说明
